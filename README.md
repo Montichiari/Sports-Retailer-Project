@@ -1,4 +1,4 @@
-# Sports-Retailer-Project
+# Sports Retailer Data Analysis Project
 In this project, data from a household-name Sports Retailer in Singapore was analysed in order to uncover insights on consumer's behavior/demographics based on age, favourite stores and types of stores, average basket value, member vs non-member, and more. 
 
 First, the data was loaded into <b>PostgreSQL</b> and <b>SQL</b> was used to perform data cleaning and to join tables, before queries were written to find out more about number of transactions made by each age demographic.
