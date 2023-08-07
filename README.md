@@ -9,4 +9,4 @@ ii) Percentage of members who shopped at different channels, broken down into va
 iii) Timings of the day that were most popular for in-store purchases.
 <br>
 
-![image](https://github.com/Montichiari/Sports-Retailer-Project/assets/124030799/c8018bb5-a220-4d53-914b-987d2a86e91d)
+![image](https://github.com/Montichiari/Sports-Retailer-Project/assets/124030799/1ee5445d-778f-4953-9339-88abaa3de53c)
